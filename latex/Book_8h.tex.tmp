@@ -1,0 +1,24 @@
+\hypertarget{Book_8h}{}\section{Book.\+h File Reference}
+\label{Book_8h}\index{Book.\+h@{Book.\+h}}
+
+
+Brief description of file.  
+
+
+{\ttfamily \#include $<$iostream$>$}\\*
+{\ttfamily \#include \char`\"{}Product.\+h\char`\"{}}\\*
+Include dependency graph for Book.\+h\+:
+% FIG 0
+\subsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \hyperlink{classBook}{Book}
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Brief description of file. 
+
+eren (\href{mailto:karaeren042@gmail.com}{\tt karaeren042@gmail.\+com}) \begin{DoxyDate}{Date}
+January, 2017 Detailed description of file. 
+\end{DoxyDate}

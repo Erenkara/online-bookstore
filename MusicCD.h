@@ -1,10 +1,10 @@
-/*
- * MusicCD.h
- *
- *  Created on: Dec 24, 2016
- *      Author: eren
- */
-
+/**
+ * @file MusicCD.h
+ * @Author eren (karaeren042@gmail.com)
+ * @date December, 2016
+ * @brief This file declares MusicCD 
+ 
+ */ 
 #ifndef MUSICCD_H_
 #define MUSICCD_H_
 #include <iostream>

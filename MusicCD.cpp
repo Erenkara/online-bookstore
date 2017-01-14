@@ -1,9 +1,9 @@
-/*
- * MusicCD.cpp
- *
- *  Created on: Dec 24, 2016
- *      Author: eren
- */
+/**
+ * @file MusicCD.cpp
+ * @Author eren (karaeren042@gmail.com)
+ * @date December, 2016
+ * @brief This file implements MusicCD class functions
+ */ 
 
 #include "MusicCD.h"
 

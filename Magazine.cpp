@@ -1,9 +1,9 @@
-/*
- * Magazine.cpp
- *
- *  Created on: Dec 24, 2016
- *      Author: eren
- */
+/**
+ * @file Magazine.cpp
+ * @Author eren (karaeren042@gmail.com)
+ * @date December, 2016
+ * @brief This file implements Magazine class functions
+ */ 
 
 #include "Magazine.h"
 
